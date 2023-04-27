@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VideoChat/static/css/main.0cf2e8df.css",
+    "main.js": "/VideoChat/static/js/main.b6269443.js",
+    "index.html": "/VideoChat/index.html",
+    "main.0cf2e8df.css.map": "/VideoChat/static/css/main.0cf2e8df.css.map",
+    "main.b6269443.js.map": "/VideoChat/static/js/main.b6269443.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cf2e8df.css",
+    "static/js/main.b6269443.js"
+  ]
+}
